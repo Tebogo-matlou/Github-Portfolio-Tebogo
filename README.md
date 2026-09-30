@@ -4,3 +4,6 @@ Hi, My name is Tebogo Matlou, an IT graduate who studied Information Technology 
 my role is to create professional profiles, 
 Testing ticketing system project
 QA of the project
+# Current Projects
+Ticketing System Project
+Developing Portfolio Profile
