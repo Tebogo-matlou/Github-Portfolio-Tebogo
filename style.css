@@ -1,0 +1,13 @@
+header {
+    background-colour: rgb(110, 42, 42);
+    height: 118px;
+    width: 1024px;
+}
+
+
+Container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
